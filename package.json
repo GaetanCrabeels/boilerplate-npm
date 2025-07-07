@@ -1,10 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Crabeels_Gaëtan",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "related", "words" ],
+
+	"version": "1.1.0",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"main": "server.js",
+	"main": "server.js", 
 	"scripts": {
 		"start": "node server.js"
 	},
