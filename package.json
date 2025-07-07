@@ -1,6 +1,6 @@
 {
-	"author": "Crabeels_Gaëtan",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Crabeels_Gaëtan",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
